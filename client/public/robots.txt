@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mikon28wa.github.io/faq-website/sitemap.xml
+
+# Crawl-Delay für große Suchmaschinen
+Crawl-delay: 2
+
+# Disallow für interne Verzeichnisse
+Disallow: /node_modules/
+Disallow: /dist/
+Disallow: /.git/
+Disallow: /.github/
