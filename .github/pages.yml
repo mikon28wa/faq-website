@@ -1,0 +1,10 @@
+{
+  "name": "GitHub Pages",
+  "public": true,
+  "sources": [
+    {
+      "branch": "main",
+      "path": "/dist/public"
+    }
+  ]
+}
